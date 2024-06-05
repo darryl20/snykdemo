@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf_8 -*-
-
-api_key="123456789"
-api_key="Hello"
 """The nodejsscan webapp."""
 import re
 import os
